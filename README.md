@@ -11,5 +11,5 @@ tologatások számát jelenti.
 
 Példa meghívásra:
 ```
-python main.py -input szamok.txt -solseq -nvisited -pcost -h 1
+python main.py -input szamok.txt -solseq -pcost
 ```
